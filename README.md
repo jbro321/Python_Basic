@@ -1,4 +1,4 @@
-# Python_Basic
+# Python_Basic_Enthusiastic
 
 #### 1. Chapter_01 이것이 Python이다.
 
